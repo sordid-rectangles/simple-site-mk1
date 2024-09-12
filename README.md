@@ -1,6 +1,6 @@
 # Simple Site
 
-This repo contains the source code for a simple site built to display links to articles authored by alexa, and to serve as a skeleton project for other simple personal site projects
+This repo contains the source code for a simple site built to display links to articles, and to serve as a skeleton project for other simple personal site projects
 
 ### Built using sveltekit create-svelte, skeleton ui, & tailwind CSS
 
